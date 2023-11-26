@@ -1,0 +1,6 @@
+FUNC MAIN
+RUN words/ask_name.cano
+RUN words/get_prompt.cano
+RUN words/say_hello.cano
+GOTO 2
+END
